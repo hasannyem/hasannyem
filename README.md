@@ -12,7 +12,7 @@ Specialties: Machine Learning, Deep Learning, AI, HCI, Computer Vision, NLP, IoT
 
 ## **🔭 Current Work**
 
-Senior Support Engineer – Live Security System
+Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205
 
 Working on real-time security systems ensuring reliability and deployment at scale
 
