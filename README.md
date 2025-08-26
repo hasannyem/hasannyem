@@ -1,8 +1,8 @@
 (https://lh6.googleusercontent.com/gOM3BNB0HUoof3lkknTqswxpUlHsZUfHwSyS9J_E7YQ5Yh13hICs4MhZYBSYOSvlMi8p7ZVWNflY8Ztc_NU4PmMt6MWXDKD6w1NHt0UQSO3CdQczFSNE-AALSWEuTsGrxhC5m12ahEcNe2-ACFk__AhozDt-mD2lQwkLDticU9hhNZfMw4y-OQ=w1280)
-![   Developer | Researcher | Explorer]
+
 ### Hi there 👋, my name is Md Nyem Hasan Bhuiyan
 ####    Developer | Researcher | Explorer
-
+![   Developer | Researcher | Explorer]
 
 "As a computer science and engineering professional, I am deeply interested in leveraging data science, machine learning, deep learning, and artificial intelligence to develop intelligent and scalable solutions. I enjoy working with large datasets, uncovering hidden patterns, and building predictive models that drive actionable insights. My goal is to contribute to impactful projects across industries by applying data-driven decision-making and advanced computational techniques."
 
