@@ -44,15 +44,16 @@ Completed end-to-end data science & ML projects
 
 ## **📝 Publications & Conferences**
 
-###•	Tofael, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
+### •	Tofael, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
 
-Predicting gender from Twitter text messages using AI and text analysis – JAISM 2025. DOI
+### •	Md. Nyem Hasan Bhuiyan, and Rahman, A., Predicting gender from Twitter text messages using methods based on artificial intelligence and text analysis, Journal of Artificial Intelligence and System Modelling,  Pages 91-106, 2025 [10.22034/JAISM2025.508831.1110](https://doi.org/10.22034/jaism.2025.508831.1110)
 
-Phishing URL Classification Using Pre-Trained DistilBERT Model – IJDS (Submitted)
+### •	Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,(Submitted)
 
-Statistical Modeling of Health Inequities: Multivariate Regression Approach – Al-Kindy College Medical Journal (Submitted)
+### •	S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal (Journal Rank: Q4) (Submitted)
 
-Predicting Student Dropout with RFC and KNNC ML Methods: Does Gaming Time Matter? – JAISM (Submitted)
+### •	Md Nyem Hasan Bhuiyan, Predicting Student Dropout with RFC and KNNC Machine Learning Methods: Does Gaming Time Matter? Journal of Artificial Intelligence and System Modelling (Submitted)
+
 
 ## **💬 Ask Me About**
 
