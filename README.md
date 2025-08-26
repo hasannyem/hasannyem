@@ -1,7 +1,7 @@
 # **Md Nyem Hasan Bhuiyan 👋**
    ## Developer | Researcher | Explorer
 
-"As a computer science and engineering professional, I leverage data science, machine learning, deep learning, and AI to build intelligent and scalable solutions. I enjoy uncovering hidden patterns in large datasets and building predictive models that drive actionable insights."
+"As a Computer Science and Engineering Student, I leverage data science, machine learning, deep learning, and AI to build intelligent and scalable solutions. I enjoy uncovering hidden patterns in large datasets and building predictive models that drive actionable insights."
 
 ## **🛠 Skills**
 
