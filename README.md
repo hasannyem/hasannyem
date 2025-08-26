@@ -71,7 +71,9 @@ Completed end-to-end data science & ML projects
 ## **💬 Ask Me About**
 
 Applying AI & ML to real-world problems
+
 Predictive modeling and data-driven decision-making
+
 Explainable AI for high-impact research
 
 ## 😄 Pronouns
