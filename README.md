@@ -34,7 +34,7 @@ Explainable and interpretable AI models
 
 ## **💡 Research Internship**
 
-Neural Research, Dhaka, Bangladesh | Feb 2025 – May 2025
+Neural Research, Dhaka, Bangladesh | Feb 2025 – May 2025 | [Certificate No: 1625077](https://lh6.googleusercontent.com/Doy_8-fCb8GnmpE15uNv6F6sjWeAu9XOa1yTNLYthaSPkeyto7eusrC87IpIKF9MHiSXjQ816aC0v6XDL9G-Bu5sRTxm4tPbI-Aptb4jBpSVWTWejPnCxI8Mmfdxornt4cA_mAreQYs-c6RRQ3I91_gHI7GMJBS67AhqT2BkrDyte5uDDZJ1SA=w1280)
 
 Trained in ML and XAI tools like SHAP, LIME, Grad-CAM
 
@@ -44,7 +44,7 @@ Developed skills in ethical AI, reproducibility, and scientific writing
 
 ## **📚 Data Science & ML Training**
 
-Data Solution 360, Dhaka, Bangladesh | Sep 2024 – Feb 2025
+Data Solution 360, Dhaka, Bangladesh | Sep 2024 – Feb 2025 | [Certificate ID:DS3602503MNHB08](https://lh5.googleusercontent.com/ayagmydc6dp-TVMFsjb1rf2a-UPGq31IQkMcWxxuVCh4rapPvvELpJEeIyDmgSd2PMh6Lt0Zz9E6i-6sy8gMwHlfZwxpWI-tFJQ0KClyZUFD8aXFImd1UsRCe4K0WsBFEmSh4CFKEnIyqSoRrYLeuZhqNhYv6atCmt0QEM3pxd-mSftLE2zPPw=w1280)
 
 Proficient in statistical analysis and exploratory data analysis (EDA)
 
