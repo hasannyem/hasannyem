@@ -2,11 +2,11 @@
 
 "As a Computer Science and Engineering Student, I leverage data science, machine learning, deep learning, and AI to build intelligent and scalable solutions. I enjoy uncovering hidden patterns in large datasets and building predictive models that drive actionable insights."
 
-### 🟢 Ongoing 
+### **🟢 Ongoing**
 
-> Diagnosis of Cattle (Cow) Lumpy Skin Disease Using Convolutional Neural Networks (Manuscript in Preparation)
+> XAI-LSDNet: An Explainable Lightweight CNN Framework for Early Detection and Severity Assessment of Lumpy Skin Disease in Cattle. (Manuscript in Preparation)
 
-> TruthLens: A Hybrid Transformer-Based Model for Detecting Deceptive News in Real-Time  (Manuscript in Preparation)
+> TruthLens: A Hybrid Transformer-Based Model for Detecting Deceptive News in Real-Time.  (Manuscript in Preparation)
 
 ## **🛠 Skills**
 
