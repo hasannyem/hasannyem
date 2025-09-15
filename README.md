@@ -8,7 +8,10 @@
 
 > TruthLens: A Hybrid Transformer-Based Model for Detecting Deceptive News in Real-Time.  (Manuscript in Preparation)
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasannyem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nyem-hasan-bhuiyan-80162433a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mebnh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nyemhasan?usp=sharing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?hl=en&authuser=2&user=Sbu4y_sAAAAJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0009-0001-6409-4005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nyemhasan.diu@gmail.com) 
+
 
 ## **🛠 Skills**
 
