@@ -26,19 +26,19 @@ Specialties: Machine Learning, Deep Learning, AI, HCI, Computer Vision, NLP, IoT
 
 ## **👯 Collaboration Interests**
 
-I’m looking to collaborate on research in:
+### **I’m looking to collaborate on research in:**
 
-Machine Learning & Deep Learning
+> Machine Learning & Deep Learning
 
-Computer Vision & NLP
+> Computer Vision & NLP
 
-Human-Computer Interaction & IoT
+> Human-Computer Interaction & IoT
 
-Explainable and interpretable AI models
+> Explainable and interpretable AI models
 
 ## **💡 Research Internship**
 
-Neural Research, Dhaka, Bangladesh | Feb 2025 – May 2025 | [Certificate No: 1625077](https://lh6.googleusercontent.com/Doy_8-fCb8GnmpE15uNv6F6sjWeAu9XOa1yTNLYthaSPkeyto7eusrC87IpIKF9MHiSXjQ816aC0v6XDL9G-Bu5sRTxm4tPbI-Aptb4jBpSVWTWejPnCxI8Mmfdxornt4cA_mAreQYs-c6RRQ3I91_gHI7GMJBS67AhqT2BkrDyte5uDDZJ1SA=w1280)
+### Neural Research, Dhaka, Bangladesh | Feb 2025 – May 2025 | [Certificate No: 1625077](https://lh6.googleusercontent.com/Doy_8-fCb8GnmpE15uNv6F6sjWeAu9XOa1yTNLYthaSPkeyto7eusrC87IpIKF9MHiSXjQ816aC0v6XDL9G-Bu5sRTxm4tPbI-Aptb4jBpSVWTWejPnCxI8Mmfdxornt4cA_mAreQYs-c6RRQ3I91_gHI7GMJBS67AhqT2BkrDyte5uDDZJ1SA=w1280)
 
 Trained in ML and XAI tools like SHAP, LIME, Grad-CAM
 
