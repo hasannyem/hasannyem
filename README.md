@@ -14,9 +14,11 @@ Specialties: Machine Learning, Deep Learning, AI, HCI, Computer Vision, NLP, IoT
 
 Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205
 
-•	Organized system data to support ML and analytics workflows
-•	Shared clean logs with data teams for improved model insights
-•	Created dashboards to track trends and support data-driven decisions
+Organized system data to support ML and analytics workflows
+
+Shared clean logs with data teams for improved model insights
+
+Created dashboards to track trends and support data-driven decisions
 
 ## **🌱 Learning & Research Interests**
 
