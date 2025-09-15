@@ -28,7 +28,7 @@
 
 ## **🌱 Learning & Research Interests**
 
-#### **Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Data Science**
+#### **Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Data Science | CyberSecurity | Netwrok Security **
 
 ## **👯 Collaboration Interests**
 
