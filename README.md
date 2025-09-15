@@ -22,7 +22,7 @@ Specialties: Machine Learning, Deep Learning, AI, HCI, Computer Vision, NLP, IoT
 
 ## **🌱 Learning & Research Interests**
 
-Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Predictive Modeling
+#### **Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Predictive Modeling**
 
 ## **👯 Collaboration Interests**
 
