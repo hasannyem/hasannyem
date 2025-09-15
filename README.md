@@ -10,11 +10,17 @@
 
 ## **🛠 Skills**
 
-> Programming & Development: Python, C++, C#, HTML, CSS, jQuery, WordPress
+> ####Programming & Development:
+Python, C++, C#, HTML, CSS, jQuery, WordPress
 
-> Databases & Tools: MS SQL Server, Linux, Mikrotik, Microsoft Office
+> ####Databases & Tools:
+MS SQL Server, Linux, Mikrotik, Microsoft Office
 
-> Specialties: Machine Learning, Deep Learning, AI, HCI, Computer Vision, NLP, IoT
+> ####AI & Research Specialties:
+Machine Learning, Deep Learning, Artificial Intelligence (AI), Human-Computer Interaction (HCI), Computer Vision, Natural Language Processing (NLP), Internet of Things (IoT)
+
+> ####Version Control & Platforms:
+Git, GitHub, Google Colab, Jupyter Notebook
 
 ## **🔭 Current Work**
 
