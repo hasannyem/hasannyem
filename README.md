@@ -4,9 +4,9 @@
 
 ### **🟢 Ongoing**
 
-> XAI-LSDNet: An Explainable Lightweight CNN Framework for Early Detection and Severity Assessment of Lumpy Skin Disease in Cattle. (Manuscript in Preparation)
+> #### XAI-LSDNet: An Explainable Lightweight CNN Framework for Early Detection and Severity Assessment of Lumpy Skin Disease in Cattle. (Manuscript in Preparation)
 
-> TruthLens: A Hybrid Transformer-Based Model for Detecting Deceptive News in Real-Time.  (Manuscript in Preparation)
+> #### TruthLens: A Hybrid Transformer-Based Model for Detecting Deceptive News in Real-Time.  (Manuscript in Preparation)
 
 
 
