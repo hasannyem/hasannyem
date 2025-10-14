@@ -2,6 +2,15 @@
 
 "As a Computer Science and Engineering Student, I leverage data science, machine learning, deep learning, and AI to build intelligent and scalable solutions. I enjoy uncovering hidden patterns in large datasets and building predictive models that drive actionable insights."
 
+### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
+##### nyem.hasan@live-security.net
+
+> Organized system data to support ML and analytics workflows
+
+> Shared clean logs with data teams for improved model insights
+
+> Created dashboards to track trends and support data-driven decisions
+
 ## **📝 Publications & Conferences**
 
 #### >	Tofael, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
