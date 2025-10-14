@@ -89,6 +89,14 @@ Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 
 > Completed end-to-end data science & ML projects
 
+## **Deep Learning & Generative AI with Python**                                                                                             
+### Institute: AI Quest Intelligence & Study Mart, Dhaka, Bangladesh |Feb 2025 – Oct 2025|
+•	Deep Learning Architectures & Optimization 
+•	Advanced NLP with Transformers 
+•	Generative AI & LLM Optimization 
+•	Computer Vision with GANs & Object Detection 
+•	LLM Enhancement & Alignment
+
 ## **💬 Ask Me About**
 
 > Applying AI & ML to real-world problems
