@@ -12,7 +12,7 @@
 
 #### > Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan, Privacy-Preserving Federated Learning for Alzheimer's Disease Detection Using Clinical Features. ." Neuroscience Informatics 5, (Publisher: Elsevier; Indexing: SCOPUS), (Submitted)
 
-#### >	Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,(Submitted)
+#### >	Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,([(Accepted))
 
 #### >	Md Nyem Hasan Bhuiyan, Predicting Student Dropout with RFC and KNNC Machine Learning Methods: Does Gaming Time Matter? Journal of Artificial Intelligence and System Modelling (Submitted)
 
