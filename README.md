@@ -77,6 +77,19 @@ Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 
 > Developed skills in ethical AI, reproducibility, and scientific writing
 
+## **Become a Python Developer** 
+
+### Institute: AI Quest Intelligence & Study Mart, Dhaka, Bangladesh |Feb 2025 – Oct 2025|
+
+> Skilled in Python with practical experience in scripting
+
+> Data handling, web development, and API integration
+
+> Strong with object-oriented programming (OOP) and automation using Python 
+
+> Experienced in debugging, testing, and writing clean, maintainable Python code 
+
+
 ## **📚 Data Science & ML Training**
 
 ### Data Solution 360, Dhaka, Bangladesh | Sep 2024 – Feb 2025 | [Certificate ID:DS3602503MNHB08](https://lh5.googleusercontent.com/ayagmydc6dp-TVMFsjb1rf2a-UPGq31IQkMcWxxuVCh4rapPvvELpJEeIyDmgSd2PMh6Lt0Zz9E6i-6sy8gMwHlfZwxpWI-tFJQ0KClyZUFD8aXFImd1UsRCe4K0WsBFEmSh4CFKEnIyqSoRrYLeuZhqNhYv6atCmt0QEM3pxd-mSftLE2zPPw=w1280)
@@ -89,13 +102,19 @@ Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 
 > Completed end-to-end data science & ML projects
 
-## **Deep Learning & Generative AI with Python**                                                                                             
+## **Deep Learning & Generative AI with Python**  
+
 ### Institute: AI Quest Intelligence & Study Mart, Dhaka, Bangladesh |Feb 2025 – Oct 2025|
-•	Deep Learning Architectures & Optimization 
-•	Advanced NLP with Transformers 
-•	Generative AI & LLM Optimization 
-•	Computer Vision with GANs & Object Detection 
-•	LLM Enhancement & Alignment
+
+> Deep Learning Architectures & Optimization 
+
+> Advanced NLP with Transformers 
+
+> Generative AI & LLM Optimization 
+
+> Computer Vision with GANs & Object Detection 
+
+> LLM Enhancement & Alignment
 
 ## **💬 Ask Me About**
 
