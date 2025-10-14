@@ -10,6 +10,8 @@
 
 #### >	S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal (Journal Rank: Q4) [(Accepted)](https://sites.google.com/d/1VcTwnf04UWaeKdv3InH89drYWhdplYQg/p/1pzcL0SV5gEU3WTDOe7wUig_y2iDoi2Z0/edit)
 
+#### > Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan, Privacy-Preserving Federated Learning for Alzheimer's Disease Detection Using Clinical Features. ." Neuroscience Informatics 5, (Publisher: Elsevier; Indexing: SCOPUS), (Submitted)
+
 #### >	Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,(Submitted)
 
 #### >	Md Nyem Hasan Bhuiyan, Predicting Student Dropout with RFC and KNNC Machine Learning Methods: Does Gaming Time Matter? Journal of Artificial Intelligence and System Modelling (Submitted)
