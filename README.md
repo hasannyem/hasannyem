@@ -45,6 +45,7 @@ Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 ## **🔭 Current Work**
 
 ### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
+##### nyem.hasan@live-security.net
 
 > Organized system data to support ML and analytics workflows
 
