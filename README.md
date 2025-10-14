@@ -51,17 +51,6 @@ Machine Learning, Deep Learning, Artificial Intelligence (AI), Human-Computer In
 
 Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 
-## **🔭 Current Work**
-
-### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
-##### nyem.hasan@live-security.net
-
-> Organized system data to support ML and analytics workflows
-
-> Shared clean logs with data teams for improved model insights
-
-> Created dashboards to track trends and support data-driven decisions
-
 ## **🌱 Learning & Research Interests**
 
 #### **Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Data Science | CyberSecurity | Netwrok Security**
