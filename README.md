@@ -79,7 +79,7 @@ Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 
 ## **Become a Python Developer** 
 
-### Institute: AI Quest Intelligence & Study Mart, Dhaka, Bangladesh |Feb 2025 – Oct 2025|
+### Institute: AI Quest Intelligence & Study Mart, Dhaka, Bangladesh |Sept 2021-Feb 2022|
 
 > Skilled in Python with practical experience in scripting
 
