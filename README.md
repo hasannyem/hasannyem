@@ -4,6 +4,13 @@
 
 ## **RESEARCH EXPERIENCE**
 #### Research Collaborator | July 2025 – Present
+Graph Neural Network Security Research 
+Supervised by: Prof. Yushun Dong, Department of Computer Science, Florida State University
+Developing fingerprinting methods to prove ownership of stolen GNN models 
+Making fingerprints survive attacks like weight pruning and model retraining 
+Conducting experiments on benchmark graph datasets (Cora, CiteSeer, PubMed)
+Targeting submission to ICML 2026
+
 
 
 ### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
