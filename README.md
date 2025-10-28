@@ -3,7 +3,7 @@
 "As a Computer Science and Engineering Student, I leverage data science, machine learning, deep learning, and AI to build intelligent and scalable solutions. I enjoy uncovering hidden patterns in large datasets and building predictive models that drive actionable insights."
 
 ## **RESEARCH EXPERIENCE**
-Research Collaborator                                                                                                                                                 July 2025 – Present
+Research Collaborator | July 2025 – Present
 
 ### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
 ##### nyem.hasan@live-security.net
