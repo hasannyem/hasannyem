@@ -89,7 +89,7 @@ Git, GitHub, Google Colab, Jupyter Notebook, Visual Studio
 
 ## **🌱 Learning & Research Interests**
 
-#### **Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Data Science | CyberSecurity | Netwrok Security**
+#### **Machine Learning | Deep Learning | Computer Vision | NLP | HCI | IoT | AI | Explainable AI (XAI) | Data Science | CyberSecurity | Netwrok Security | Healthcare AI | Privacy-Preserving Machine Learning | ML Security & Robustness **
 
 ## **👯 Collaboration Interests**
 
