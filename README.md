@@ -15,17 +15,6 @@
 
 > Targeting submission to ICML 2026
 
-
-## **PROFESSIONAL EXPERIENCE**
-### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
-##### nyem.hasan@live-security.net
-
-> Organized system data to support ML and analytics workflows
-
-> Shared clean logs with data teams for improved model insights
-
-> Created dashboards to track trends and support data-driven decisions
-
 #### Research Collaborator | September 2025 – Present
 ##### Healthcare AI & Medical Machine Learning
 ##### Supervised by: Dr. Asad Abbas, Department of Computer Science, University of Central Punjab
@@ -37,6 +26,16 @@
 > Generative Deep Learning for Multi-Omics-Driven Personalized Immunotherapy in Cancers
 
 > Optimizing and Deploying Ultra-Low-Latency Transformer Models for Bengali Cyberbullying
+
+## **PROFESSIONAL EXPERIENCE**
+### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
+##### nyem.hasan@live-security.net
+
+> Organized system data to support ML and analytics workflows
+
+> Shared clean logs with data teams for improved model insights
+
+> Created dashboards to track trends and support data-driven decisions
 
 ## **📝 Publications & Conferences**
 
