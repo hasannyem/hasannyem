@@ -29,15 +29,13 @@
 
 #### Research Assistant (RA) | January 2024 – October 2024
 ##### Deep Learning & Medical Machine Learning
-##### Supervised by: Assis. Prof. Khandaker Mohammad Mohi Uddin, Department of Computer Science, Southeast University (SEU)
+##### Supervised by: Assis. Prof. Khandaker Mohammad Mohi Uddin, Department of Computer Science & Engineering, Southeast University (SEU)
 
-> Developed federated learning framework for privacy-preserving Alzheimer's disease 
+> Conducted feature optimization and model evaluation for improved predictions
 
-> Designed ML pipelines for chronic kidney disease risk prediction 
+> Performed data analytics and visualizations on large datasets
 
-> Generative Deep Learning for Multi-Omics-Driven Personalized Immunotherapy in Cancers
-
-> Optimizing and Deploying Ultra-Low-Latency Transformer Models for Bengali Cyberbullying
+> Contributed to multiple research paper publications
 
 ## **PROFESSIONAL EXPERIENCE**
 ### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
