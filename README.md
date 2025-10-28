@@ -59,7 +59,7 @@
 
 ## **📝 Publications**
 
-### **Published & Accepted**
+### ** 📝 Published & Accepted**
 
 #### >	1. Tofael, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
 
