@@ -26,6 +26,18 @@
 
 > Created dashboards to track trends and support data-driven decisions
 
+#### Research Collaborator | September 2025 – Present
+##### Healthcare AI & Medical Machine Learning
+##### Supervised by: Dr. Asad Abbas, Department of Computer Science, University of Central Punjab
+
+> Developed federated learning framework for privacy-preserving Alzheimer's disease 
+
+> Designed ML pipelines for chronic kidney disease risk prediction 
+
+> Generative Deep Learning for Multi-Omics-Driven Personalized Immunotherapy in Cancers
+
+> Optimizing and Deploying Ultra-Low-Latency Transformer Models for Bengali Cyberbullying
+
 ## **📝 Publications & Conferences**
 
 #### >	Tofael, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
