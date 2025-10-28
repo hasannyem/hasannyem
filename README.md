@@ -27,6 +27,18 @@
 
 > Optimizing and Deploying Ultra-Low-Latency Transformer Models for Bengali Cyberbullying
 
+#### Research Assistant (RA) | January 2024 – October 2024
+##### Deep Learning & Medical Machine Learning
+##### Supervised by: Assis. Prof. Khandaker Mohammad Mohi Uddin, Department of Computer Science, Southeast University (SEU)
+
+> Developed federated learning framework for privacy-preserving Alzheimer's disease 
+
+> Designed ML pipelines for chronic kidney disease risk prediction 
+
+> Generative Deep Learning for Multi-Omics-Driven Personalized Immunotherapy in Cancers
+
+> Optimizing and Deploying Ultra-Low-Latency Transformer Models for Bengali Cyberbullying
+
 ## **PROFESSIONAL EXPERIENCE**
 ### **Senior Support Engineer – Live Security System, Dhaka, Bangladesh-1205**
 ##### nyem.hasan@live-security.net
