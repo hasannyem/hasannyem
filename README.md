@@ -69,24 +69,23 @@
 
 #### 4. Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,[(Accepted)](https://ijds.zenithpress.org)
 
+#### 5. Efaz Kabir, Md Nyem Hasan Bhuiyan, Samya Datta, Mandal Shubhankar and Mohammad Quayes Bin Habib, “AI-driven Cybersecurity: Building Adaptive Threat Detection Systems Using Deep Learning”. International Journal of Science and research Archive. [10.30574/ijsra.2025.17.1.2928](https://doi.org/10.30574/ijsra.2025.17.1.2928)
+
+#### 6. EFAZ KABIR, Md Nyem Hasan Bhuiyan, Mohammad Quayes Bin Habib, Sanjoy Modak and Abrar Shahriar Mahtab, “Explainable Artificial Intelligence (XAI) for Healthcare Diagnostics”. International Journal of Science and research Archive. [10.30574/ijsra.2025.17.1.2930](https://doi.org/10.30574/ijsra.2025.17.1.2930)
+
 ### **Under Review**
 
 #### 1. Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan and Dr. Asad Abbas “Privacy-Preserving Federated Learning for Alzheimer's disease Detection Using Clinical Features”. NPJ Digital Medicine, (Publisher: nature; Indexing: SCOPUS) (Submitted)
 
 #### 2. Rana M.Zain Ul Abideen, Md Nyem Hasan Bhuiyan, and Dr. Asad Abbas “Machine Learning-Driven Risk Stratification and Stage Classification in Chronic Kidney Disease”. IEEE journal of Biomedical at health Informatics, (Publisher: nature; Indexing: SCOPUS) (Submitted)
 
+#### 3. Md Nyem Hasan Bhuiyan, Samya Datta, Touhidul Arefin, Mohammad Quayes Bin Habib and Shuvo Chakroborti, “Explainable Artificial Intelligence (XAI) for Healthcare Diagnostics”. International Journal of Science and research Archive. (Submitted)
+
 ### **In preparation**
 
 #### 1. Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and A. Based, XAI-LSDNet: An Explainable Lightweight CNN Framework for Early Detection and Severity Assessment of Lumpy Skin Disease in Cattle. (Manuscript in Preparation)
 
 #### 2. Jahidul, M.I., and Md. Nyem Hasan Bhuiyan, TruthLens: A Hybrid Transformer-Based Model for Detecting Deceptive News in Real-Time. (Manuscript in Preparation)
-
-### **Review Article** 
-#### 1. Md Nyem Hasan Bhuiyan, Efaz Kabir, and Raiyan Haider, “Blockchain-based Secure Data Sharing for Smart Cities”. International Journal of Science and research Archive. (Submitted) 
-
-#### 2. Efaz Kabir, Md Nyem Hasan Bhuiyan, and Raiyan Haider, “AI-driven Cybersecurity: Building Adaptive Threat Detection Systems Using Deep Learning”. International Journal of Science and research Archive. (Submitted)
-
-#### 3. Efaz Kabir, Md Nyem Hasan Bhuiyan, and Raiyan Haider, “Explainable Artificial Intelligence (XAI) for Healthcare Diagnostics”. International Journal of Science and research Archive. (Submitted)
 
 ## **🛠 Skills**
 
