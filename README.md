@@ -61,11 +61,11 @@
 
 ### **Published & Accepted**
 
-#### 1. Tofael, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
+#### 1. MTA Bhuiyan, Md. Nyem Hasan Bhuiyan, Uddin, K.M.M., and MA Based, “A Feature Selection-Based Ensemble Machine Learning Method for Predicting Chronic Kidney Cancer, 3rd IEEE BECITHCON, pp. 193-199, 2024 [10.1109/BECITHCON64160.2024.10962730](https://doi.org/10.1109/BECITHCON64160.2024.10962730) 
 
 #### 2. Md. Nyem Hasan Bhuiyan, and Rahman, A., Predicting gender from Twitter text messages using methods based on artificial intelligence and text analysis, Journal of Artificial Intelligence and System Modelling,  Pages 91-106, 2025 [10.22034/JAISM2025.508831.1110](https://doi.org/10.22034/jaism.2025.508831.1110)
 
-#### 3. S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal (Journal Rank: Q4) [(Accepted)](https://sites.google.com/d/1VcTwnf04UWaeKdv3InH89drYWhdplYQg/p/1pzcL0SV5gEU3WTDOe7wUig_y2iDoi2Z0/edit)
+#### 3. S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal. [(Accepted)](https://sites.google.com/d/1VcTwnf04UWaeKdv3InH89drYWhdplYQg/p/1pzcL0SV5gEU3WTDOe7wUig_y2iDoi2Z0/edit)
 
 #### 4. Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,[(Accepted)](https://ijds.zenithpress.org)
 
