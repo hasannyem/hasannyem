@@ -75,9 +75,9 @@
 
 ### **Under Review**
 
-#### 1. Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan and Dr. Asad Abbas “Privacy-Preserving Federated Learning for Alzheimer's disease Detection Using Clinical Features”. NPJ Digital Medicine, (Publisher: nature; Indexing: SCOPUS) (Submitted)
+#### 1. Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan and Dr. Asad Abbas “Privacy-Preserving Federated Learning for Alzheimer's disease Detection Using Clinical Features”. NPJ Digital Medicine. (Submitted)
 
-#### 2. Rana M.Zain Ul Abideen, Md Nyem Hasan Bhuiyan, and Dr. Asad Abbas “Machine Learning-Driven Risk Stratification and Stage Classification in Chronic Kidney Disease”. IEEE journal of Biomedical at health Informatics, (Publisher: nature; Indexing: SCOPUS) (Submitted)
+#### 2. Rana M.Zain Ul Abideen, Md Nyem Hasan Bhuiyan, and Dr. Asad Abbas “Machine Learning-Driven Risk Stratification and Stage Classification in Chronic Kidney Disease”. IEEE journal of Biomedical at health Informatics. (Submitted)
 
 #### 3. Md Nyem Hasan Bhuiyan, Samya Datta, Touhidul Arefin, Mohammad Quayes Bin Habib and Shuvo Chakroborti, “Explainable Artificial Intelligence (XAI) for Healthcare Diagnostics”. International Journal of Science and research Archive. (Submitted)
 
