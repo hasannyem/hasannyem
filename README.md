@@ -67,7 +67,7 @@
 
 #### 3. S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal. [(Accepted)](https://sites.google.com/d/1VcTwnf04UWaeKdv3InH89drYWhdplYQg/p/1pzcL0SV5gEU3WTDOe7wUig_y2iDoi2Z0/edit)
 
-#### 4. Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,[(Accepted)](https://ijds.zenithpress.org)
+#### 4. Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,[(Accepted)](https://ijds.zenithpress.org/article_237849_de253aef3b8a4f14d789c4e9fdd444de.pdf)
 
 #### 5. Efaz Kabir, Md Nyem Hasan Bhuiyan, Samya Datta, Mandal Shubhankar and Mohammad Quayes Bin Habib, “AI-driven Cybersecurity: Building Adaptive Threat Detection Systems Using Deep Learning”. International Journal of Science and research Archive. [10.30574/ijsra.2025.17.1.2928](https://doi.org/10.30574/ijsra.2025.17.1.2928)
 
@@ -75,11 +75,13 @@
 
 ### **Under Review**
 
-#### 1. Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan and Dr. Asad Abbas “Privacy-Preserving Federated Learning for Alzheimer's disease Detection Using Clinical Features”. NPJ Digital Medicine. (Submitted)
+#### 1. Rana M.Zain Ul Abideen, Md. Nyem Hasan Bhuiyan and Dr. Asad Abbas “Privacy-Preserving Federated Learning for Alzheimer's disease Detection Using Clinical Features”.  The journal of supercomputing. (Publisher: Springer; Indexing: SCOPUS, Journal Rank: Q2)  (Submitted) 
 
-#### 2. Rana M.Zain Ul Abideen, Md Nyem Hasan Bhuiyan, and Dr. Asad Abbas “Machine Learning-Driven Risk Stratification and Stage Classification in Chronic Kidney Disease”. IEEE journal of Biomedical at health Informatics. (Submitted)
+#### 2. Rana M.Zain Ul Abideen, Md Nyem Hasan Bhuiyan, and Dr. Asad Abbas “Machine Learning-Driven Risk Stratification and Stage Classification in Chronic Kidney Disease”.  IEEE journal of biomedical health Informatics. (Publisher: IEEE; Indexing: SCOPUS, Journal Rank: Q1) (Submitted) 
 
 #### 3. Md Nyem Hasan Bhuiyan, Samya Datta, Touhidul Arefin, Mohammad Quayes Bin Habib and Shuvo Chakroborti, “Explainable Artificial Intelligence (XAI) for Healthcare Diagnostics”. International Journal of Science and research Archive. (Submitted)
+
+#### 4. Md Nyem Hasan Bhuiyan, Rana M.Zain Ul Abideen and Dr. Asad Abbas “Multi-Modal Transformer Architecture for Cancer Drug Response Prediction Using Integrated Omics Data”  Digital Health 11. (Publisher: Sage; Indexing: SCOPUS, Journal Rank: Q1) (Submitted)
 
 ### **In preparation**
 
