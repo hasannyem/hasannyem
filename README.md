@@ -65,7 +65,7 @@
 
 #### 2. Md. Nyem Hasan Bhuiyan, and Rahman, A., Predicting gender from Twitter text messages using methods based on artificial intelligence and text analysis, Journal of Artificial Intelligence and System Modelling,  Pages 91-106, 2025 [10.22034/JAISM2025.508831.1110](https://doi.org/10.22034/jaism.2025.508831.1110)
 
-#### 3. S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal. [(Accepted)](https://sites.google.com/d/1VcTwnf04UWaeKdv3InH89drYWhdplYQg/p/1pzcL0SV5gEU3WTDOe7wUig_y2iDoi2Z0/edit)
+#### 3. S. Sayem, Md. Nyem Hasan Bhuiyan, N. A, Sayed, and A. D. Nath, Statistical Modeling of Health Inequities: A Multivariate Regression Approach to Social Determinants of Public Health. Al-Kindy College Medical Journal. [10.47723/vzkbq424](https://doi.org/10.47723/vzkbq424)
 
 #### 4. Md Nyem Hasan Bhuiyan, Phishing URL Classification Using Pre-Trained DistilBERT Model, International Journal of Digital Systems,[(Accepted)](https://ijds.zenithpress.org/article_237849_de253aef3b8a4f14d789c4e9fdd444de.pdf)
 
